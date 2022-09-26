@@ -1,0 +1,393 @@
+[
+  {
+   "id": 1,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/ad6/520_400_2/vthi16ns5b34pirl27xujaskvmv3sp23.jpg?166323390987296",
+   "title": "Каппа Пира маки",
+   "discription": "Лосось, сливочный сыр, огурец, соус Терияки, кунжут белый",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 6.9,
+   "category": 1,
+   "rating": 3
+  },
+  {
+   "id": 2,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/937/520_400_2/ypyvda2nl26xzc9aqrgfrazc0izpxl4h.jpg?166194763578540",
+   "title": "Сингапур маки",
+   "discription": "Морской окунь, яблоко, салат Айсберг, кунжут, соус Чили сладкий",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 8.9,
+   "category": 1,
+   "rating": 6
+  },
+  {
+   "id": 3,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/608/520_400_2/ee6965ifsqvlezt4tydw88ryvu1uyh3q.jpg?166183889696262",
+   "title": "Эби Калифорния маки",
+   "discription": "Креветка, авокадо, огурец, майонез, икра летучей рыбы",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 19.2,
+   "category": 1,
+   "rating": 8
+  },
+  {
+   "id": 4,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/9a7/520_400_2/nmjd3s6xwzxo9co63dnmeslamjs5ro6z.jpg?166232527688877",
+   "title": "Асахи маки",
+   "discription": "Лосось, креветка, сливочный сыр, авокадо, икра летучей рыбы",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 17.9,
+   "category": 1,
+   "rating": 2
+  },
+  {
+   "id": 5,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/300/520_400_2/jqxjsxttu66ukd5gf40oz8guc7yn6626.jpg?166178259275806",
+   "title": "Хот Тори маки",
+   "discription": "Цыплёнок Ким Чи, сливочный сыр, огурец, свежий перец, соус Спайси",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 8.9,
+   "category": 2,
+   "rating": 1
+  },
+  {
+   "id": 6,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/7cd/520_400_2/dqeetlqoc359fpm2jbt3vejfa421jvi2.jpg?166185610497255",
+   "title": "Хот Ямато маки",
+   "discription": "Лосось, сливочный сыр, авокадо, огурец, соус Унаги",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 15.5,
+   "category": 2,
+   "rating": 5
+  },
+  {
+   "id": 7,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/7a7/520_400_2/tcv0a9yf1b549da29h1vampejs0y669g.jpg?166179562686213",
+   "title": "Хот Эби маки",
+   "discription": "Креветка, сливочный сыр, огурец, зелёный лук, икра летучей рыбы",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 16.8,
+   "category": 2,
+   "rating": 1
+  },
+  {
+   "id": 8,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/729/520_400_2/f8d5bjrd42e0rq3q7dfcfxui5rw4u9qw.jpg?166194101281394",
+   "title": "Хот Унаги маки",
+   "discription": "Угорь, огурец, сливочный сыр, икра летучей рыбы, соус Унаги",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 19.2,
+   "category": 2,
+   "rating": 3
+  },
+  {
+   "id": 9,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/425/520_400_2/9eitwu8um3qrfdtqyl9r3baf84jhv07t.jpg?166176340978924",
+   "title": "Ханаби маки",
+   "discription": "Креветка в кляре, сливочный сыр, огурец, икра летучей рыбы",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 12.8,
+   "category": 3,
+   "rating": 2
+  },
+  {
+   "id": 10,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/902/520_400_2/7lwlh46ja52gp2w9shn6pwc6k04mozka.jpg?166185763182598",
+   "title": "Текка Каппа маки",
+   "discription": "Тунец, сливочный сыр, огурец, соус Спайси",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 14.5,
+   "category": 3,
+   "rating": 4
+  },
+  {
+   "id": 11,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/d36/520_400_2/w3zxr6w9ccfv01p2i8x0ak2byfeio4c7.jpg?1662908753107912",
+   "title": "Спайси Киноко маки",
+   "discription": "Грибы шампиньоны, соус Спайси, зелёный лук",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 11.6,
+   "category": 3,
+   "rating": 1
+  },
+  {
+   "id": 12,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/00b/520_400_2/jd10jq9mf2pxth1c38yk4jo5vac3nzmd.jpg?166197897685365",
+   "title": "Окаяма маки",
+   "discription": "Грибы шампиньоны, соус Спайси, зелёный лук",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 10.5,
+   "category": 3,
+   "rating": 1
+  },
+  {
+   "id": 13,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/b57/520_400_2/yct8fxau3j50ni36xb70180611cgsce8.jpg?166197898597924",
+   "title": "Авокадо маки",
+   "discription": "Авокадо",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 5.9,
+   "category": 4,
+   "rating": 1
+  },
+  {
+   "id": 14,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/406/520_400_2/r7m3yx6j6xrsnd6q59iz8ykoxrh6rgcs.jpg?166359010798863",
+   "title": "Изумитай маки",
+   "discription": "Морской окунь",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 6.9,
+   "category": 4,
+   "rating": 1
+  },
+  {
+   "id": 15,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/8eb/520_400_2/l222f5khnh1v0fgkg93i43glrgu8n2ul.jpg?166187551489760",
+   "title": "Кунсей Сяке маки",
+   "discription": "Копчёный лосось",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 8.3,
+   "category": 4,
+   "rating": 6
+  },
+  {
+   "id": 16,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/5ae/520_400_2/0et3sylf03shrv7fiwvox8c1bbel06y0.jpg?166184239494333",
+   "title": "Текка маки",
+   "discription": "Тунец",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 8.9,
+   "category": 4,
+   "rating": 2
+  },
+  {
+   "id": 17,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/350/520_400_2/hr0rlkg3uerplihf4d2h4l7lesunl0n9.jpg?166185465763764",
+   "title": "Нигири Сяке",
+   "discription": "Лосось",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 26.4,
+   "category": 5,
+   "rating": 4
+  },
+  {
+   "id": 18,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/131/520_400_2/2fa18s3vsinrryrqnghnfivhv60dtqp7.jpg?166256014776162",
+   "title": "Нигири Эби",
+   "discription": "Креветка",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 36,
+   "category": 5,
+   "rating": 3
+  },
+  {
+   "id": 19,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/09b/520_400_2/nw4dmcy62inrx0i6r47488qyif7g02kq.jpg?166335056777763",
+   "title": "Гункан Тобико Блэк",
+   "discription": "Икра летучей рыбы чёрная",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 36,
+   "category": 5,
+   "rating": 3
+  },
+  {
+   "id": 20,
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/e42/520_400_2/o308lm276cqx7co9d14ksvawqbk4pxge.jpg?166185464197148",
+   "title": "Гункан Тобико Оранж",
+   "discription": "Икра летучей рыбы оранжевая",
+   "amount": [
+    8,
+    16
+   ],
+   "price": 36,
+   "category": 5,
+   "rating": 4
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/0a0/520_400_2/dcm2r1tm38ll1rel9qn6z0g6kpwwj2vq.jpg?166185461774628",
+    "title": "Филадельфия маки",
+    "discription": "Лосось, сливочный сыр",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 22.80,
+    "category": 1,
+    "rating": 6
+   },
+   {
+    "id": 22,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/2d7/520_400_2/y43ztvr8gt6nh0v93mp6o1xug8150ch4.jpg?1661854682100899",
+    "title": "Вакамэ маки",
+    "discription": "Лосось, сливочный сыр, водоросли маринованные, соус Ореховый, кунжут черный",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 15.50,
+    "category": 1,
+    "rating": 3
+   },
+   {
+    "id": 23,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/9de/520_400_2/410wnozzlzy3nf3x347xf1rz52ntutdt.jpg?166335054556366",
+    "title": "Нигири Магуро",
+    "discription": "Тунец",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 26.40,
+    "category": 5,
+    "rating": 4
+   },
+   {
+    "id": 24,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/3bc/520_400_2/1mu3vbmo01ecbha1wauoti9i8s9eqmow.jpg?166256013162676",
+    "title": "Нигири Унаги",
+    "discription": "Угорь, соус Унаги, кунжут белый",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 44.80,
+    "category": 5,
+    "rating": 2
+   },
+   {
+    "id": 25,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/766/520_400_2/kyun8aigjoaypwda6xmuigaplytnlc9c.jpg?1661787920104752",
+    "title": "Каппа маки",
+    "discription": "Огурец",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 5.90,
+    "category": 4,
+    "rating": 1
+   },
+   {
+    "id": 26,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/e10/520_400_2/t4pylg03ui5ac3e2qqnhxv8hrzbsu1pl.jpg?166300576790483",
+    "title": "Спайси Кунсей маки",
+    "discription": "Копчёный лосось, соус Спайси",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 8.30,
+    "category": 4,
+    "rating": 1
+   },
+   {
+    "id": 27,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/db0/520_400_2/50ebtwt0bqg8a1bwdwet01dermtyug2o.jpg?1661941006109090",
+    "title": "Унаги маки",
+    "discription": "Угорь, соус Унаги, кунжут",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 10.70,
+    "category": 4,
+    "rating": 1
+   },
+   {
+    "id": 28,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/83e/520_400_2/69l2sb11nxmo4vnx7zuj5uv05idbummh.jpg?166370431198699",
+    "title": "Эби Уайт маки",
+    "discription": "Креветка, сливочный сыр",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 8.30,
+    "category": 4,
+    "rating": 1
+   },
+   {
+    "id": 29,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/b97/520_400_2/zde837vxmk7u5u17o3bxywjbth4pbeiz.jpg?166222747379602",
+    "title": "Хот Мацури маки",
+    "discription": "Лосось, креветка, салат айсберг, огурец, икра летучей рыбы, сыр сливочный",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 26.90,
+    "category": 2,
+    "rating": 3
+   },
+   {
+    "id": 30,
+    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/56e/520_400_2/wa1r8drl9yd2qrodq6ffug6fwqqo2d6r.jpg?1661857810119352",
+    "title": "Хот Кабаяки маки",
+    "discription": "Африканский сом, такуан, сливочный сыр, салат Айсберг, имбирный соус",
+    "amount": [
+     8,
+     16
+    ],
+    "price": 13.10,
+    "category": 2,
+    "rating": 1
+   }
+
+ ]
