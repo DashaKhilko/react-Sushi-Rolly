@@ -1,393 +1,422 @@
 [
   {
-   "id": 1,
+   "id": "1",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/ad6/520_400_2/vthi16ns5b34pirl27xujaskvmv3sp23.jpg?166323390987296",
    "title": "Каппа Пира маки",
-   "discription": "Лосось, сливочный сыр, огурец, соус Терияки, кунжут белый",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 6.9,
+   "description": "Лосось, сливочный сыр, огурец, соус Терияки, кунжут белый",
+   "price": 0.86,
    "category": 1,
-   "rating": 3
+   "rating": 3,
+   "proteins": 16.29152,
+   "fats": 23.48864, 
+   "carbs": 67.45312, 
+   "calories": 546.36736,
+   "weight": 28
   },
   {
-   "id": 2,
+   "id": "2",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/937/520_400_2/ypyvda2nl26xzc9aqrgfrazc0izpxl4h.jpg?166194763578540",
    "title": "Сингапур маки",
-   "discription": "Морской окунь, яблоко, салат Айсберг, кунжут, соус Чили сладкий",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 8.9,
+   "description": "Морской окунь, яблоко, салат Айсберг, кунжут, соус Чили сладкий",
+   "price": 1.11,
    "category": 1,
-   "rating": 6
+   "rating": 6,
+   "proteins": 9.99481,
+   "fats": 19.51306, 
+   "carbs": 77.07322, 
+   "calories": 523.89484,
+   "weight": 32
   },
   {
-   "id": 3,
+   "id": "3",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/608/520_400_2/ee6965ifsqvlezt4tydw88ryvu1uyh3q.jpg?166183889696262",
    "title": "Эби Калифорния маки",
-   "discription": "Креветка, авокадо, огурец, майонез, икра летучей рыбы",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 19.2,
+   "description": "Креветка, авокадо, огурец, майонез, икра летучей рыбы",
+   "price": 2.4,
    "category": 1,
-   "rating": 8
+   "rating": 8,
+   "proteins": 18.21928,
+   "fats": 8.47576, 
+   "carbs": 64.236, 
+   "calories": 406.09448,
+   "weight": 26.5
   },
   {
-   "id": 4,
+   "id": "4",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/9a7/520_400_2/nmjd3s6xwzxo9co63dnmeslamjs5ro6z.jpg?166232527688877",
    "title": "Асахи маки",
-   "discription": "Лосось, креветка, сливочный сыр, авокадо, икра летучей рыбы",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 17.9,
+   "description": "Лосось, креветка, сливочный сыр, авокадо, икра летучей рыбы",
+   "price": 2.24,
    "category": 1,
-   "rating": 2
+   "rating": 2,
+   "proteins": 17.31828,
+   "fats": 15.99964, 
+   "carbs": 61.957, 
+   "calories": 461.1,
+   "weight": 26.5
   },
   {
-   "id": 5,
+   "id": "5",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/300/520_400_2/jqxjsxttu66ukd5gf40oz8guc7yn6626.jpg?166178259275806",
    "title": "Хот Тори маки",
-   "discription": "Цыплёнок Ким Чи, сливочный сыр, огурец, свежий перец, соус Спайси",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 8.9,
+   "description": "Цыплёнок Ким Чи, сливочный сыр, огурец, свежий перец, соус Спайси",
+   "price": 1.11,
    "category": 2,
-   "rating": 1
+   "rating": 1,
+   "proteins": 14.63636,
+   "fats": 35.69465, 
+   "carbs": 87.60545, 
+   "calories": 730.22387,
+   "weight": 30
   },
   {
-   "id": 6,
+   "id": "6",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/7cd/520_400_2/dqeetlqoc359fpm2jbt3vejfa421jvi2.jpg?166185610497255",
    "title": "Хот Ямато маки",
-   "discription": "Лосось, сливочный сыр, авокадо, огурец, соус Унаги",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 15.5,
+   "description": "Лосось, сливочный сыр, авокадо, огурец, соус Унаги",
+   "price": 1.93,
    "category": 2,
-   "rating": 5
+   "rating": 5,
+   "proteins": 14.8813,
+   "fats": 34.8929, 
+   "carbs": 86.6173, 
+   "calories": 720.02315,
+   "weight": 31
   },
   {
-   "id": 7,
+   "id": "7",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/7a7/520_400_2/tcv0a9yf1b549da29h1vampejs0y669g.jpg?166179562686213",
    "title": "Хот Эби маки",
-   "discription": "Креветка, сливочный сыр, огурец, зелёный лук, икра летучей рыбы",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 16.8,
+   "description": "Креветка, сливочный сыр, огурец, зелёный лук, икра летучей рыбы",
+   "price": 2.1,
    "category": 2,
-   "rating": 1
+   "rating": 1,
+   "proteins": 14.544,
+   "fats": 29.6064, 
+   "carbs": 89.5872, 
+   "calories": 682.992,
+   "weight": 30
   },
   {
-   "id": 8,
+   "id": "8",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/729/520_400_2/f8d5bjrd42e0rq3q7dfcfxui5rw4u9qw.jpg?166194101281394",
    "title": "Хот Унаги маки",
-   "discription": "Угорь, огурец, сливочный сыр, икра летучей рыбы, соус Унаги",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 19.2,
+   "description": "Угорь, огурец, сливочный сыр, икра летучей рыбы, соус Унаги",
+   "price": 2.4,
    "category": 2,
-   "rating": 3
+   "rating": 3,
+   "proteins": 15.2938,
+   "fats": 34.78235, 
+   "carbs": 87.24845, 
+   "calories": 723.21015,
+   "weight": 30
   },
   {
-   "id": 9,
+   "id": "9",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/425/520_400_2/9eitwu8um3qrfdtqyl9r3baf84jhv07t.jpg?166176340978924",
    "title": "Ханаби маки",
-   "discription": "Креветка в кляре, сливочный сыр, огурец, икра летучей рыбы",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 12.8,
+   "description": "Креветка в кляре, сливочный сыр, огурец, икра летучей рыбы",
+   "price": 1.6,
    "category": 3,
-   "rating": 2
+   "rating": 2,
+   "proteins": 14.9136,
+   "fats": 15.74144, 
+   "carbs": 84.2088, 
+   "calories": 538.15632,
+   "weight": 26
   },
   {
-   "id": 10,
+   "id": "10",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/902/520_400_2/7lwlh46ja52gp2w9shn6pwc6k04mozka.jpg?166185763182598",
    "title": "Текка Каппа маки",
-   "discription": "Тунец, сливочный сыр, огурец, соус Спайси",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 14.5,
+   "description": "Тунец, сливочный сыр, огурец, соус Спайси",
+   "price": 1.81,
    "category": 3,
-   "rating": 4
+   "rating": 4,
+   "proteins": 13.8795,
+   "fats": 11.2784, 
+   "carbs": 58.7575, 
+   "calories": 392.0498,
+   "weight": 23.8
   },
   {
-   "id": 11,
+   "id": "11",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/d36/520_400_2/w3zxr6w9ccfv01p2i8x0ak2byfeio4c7.jpg?1662908753107912",
    "title": "Спайси Киноко маки",
-   "discription": "Грибы шампиньоны, соус Спайси, зелёный лук",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 11.6,
+   "description": "Грибы шампиньоны, соус Спайси, зелёный лук",
+   "price": 1.5,
    "category": 3,
-   "rating": 1
+   "rating": 1,
+   "proteins": 8.40636,
+   "fats": 6.9255, 
+   "carbs": 58.32981, 
+   "calories": 329.26563,
+   "weight": 21.3
   },
   {
-   "id": 12,
+   "id": "12",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/00b/520_400_2/jd10jq9mf2pxth1c38yk4jo5vac3nzmd.jpg?166197897685365",
    "title": "Окаяма маки",
-   "discription": "Грибы шампиньоны, соус Спайси, зелёный лук",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 10.5,
+   "description": "Грибы шампиньоны, соус Спайси, зелёный лук",
+   "price": 1.3,
    "category": 3,
-   "rating": 1
+   "rating": 1,
+   "proteins": 6.0705,
+   "fats": 9.13824, 
+   "carbs": 58.48884, 
+   "calories": 340.48152,
+   "weight": 21.3
   },
   {
-   "id": 13,
+   "id": "13",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/b57/520_400_2/yct8fxau3j50ni36xb70180611cgsce8.jpg?166197898597924",
    "title": "Авокадо маки",
-   "discription": "Авокадо",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 5.9,
+   "description": "Авокадо",
+   "price": 0.7,
    "category": 4,
-   "rating": 1
+   "rating": 1,
+   "proteins": 12.07865,
+   "fats": 15.7287, 
+   "carbs": 59.0002, 
+   "calories": 425.86815,
+   "weight": 23
   },
   {
-   "id": 14,
+   "id": "14",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/406/520_400_2/r7m3yx6j6xrsnd6q59iz8ykoxrh6rgcs.jpg?166359010798863",
    "title": "Изумитай маки",
-   "discription": "Морской окунь",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 6.9,
+   "description": "Морской окунь",
+   "price": 0.86,
    "category": 4,
-   "rating": 1
+   "rating": 1,
+   "proteins": 9.0649,
+   "fats": 11.5634, 
+   "carbs": 59.1337, 
+   "calories": 376.8555,
+   "weight": 23.8
   },
   {
-   "id": 15,
+   "id": "15",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/8eb/520_400_2/l222f5khnh1v0fgkg93i43glrgu8n2ul.jpg?166187551489760",
    "title": "Кунсей Сяке маки",
-   "discription": "Копчёный лосось",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 8.3,
+   "description": "Копчёный лосось",
+   "price": 1,
    "category": 4,
-   "rating": 6
+   "rating": 6,
+   "proteins": 11.29038,
+   "fats": 5.19792, 
+   "carbs": 38.17452, 
+   "calories": 244.6419,
+   "weight": 12.8
   },
   {
-   "id": 16,
+   "id": "16",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/5ae/520_400_2/0et3sylf03shrv7fiwvox8c1bbel06y0.jpg?166184239494333",
    "title": "Текка маки",
-   "discription": "Тунец",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 8.9,
+   "description": "Тунец",
+   "price": 1.1,
    "category": 4,
-   "rating": 2
+   "rating": 2,
+   "proteins": 11.40666,
+   "fats": 0.48552, 
+   "carbs": 38.17452, 
+   "calories": 202.70154,
+   "weight": 12.8
   },
   {
-   "id": 17,
+   "id": "17",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/350/520_400_2/hr0rlkg3uerplihf4d2h4l7lesunl0n9.jpg?166185465763764",
    "title": "Нигири Сяке",
-   "discription": "Лосось",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 26.4,
+   "description": "Лосось",
+   "price": 3.3,
    "category": 5,
-   "rating": 4
+   "rating": 4,
+   "proteins": 3.81815,
+   "fats": 2.11715, 
+   "carbs": 9.37615, 
+   "calories": 71.8291,
+   "weight": 35
   },
   {
-   "id": 18,
+   "id": "18",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/131/520_400_2/2fa18s3vsinrryrqnghnfivhv60dtqp7.jpg?166256014776162",
    "title": "Нигири Эби",
-   "discription": "Креветка",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 36,
+   "description": "Креветка",
+   "price": 4.5,
    "category": 5,
-   "rating": 3
+   "rating": 3,
+   "proteins": 5.80685,
+   "fats": 0.33705, 
+   "carbs": 11.90105, 
+   "calories": 73.86505,
+   "weight": 35
   },
   {
-   "id": 19,
+   "id": "19",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/09b/520_400_2/nw4dmcy62inrx0i6r47488qyif7g02kq.jpg?166335056777763",
    "title": "Гункан Тобико Блэк",
-   "discription": "Икра летучей рыбы чёрная",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 36,
+   "description": "Икра летучей рыбы чёрная",
+   "price": 4.5,
    "category": 5,
-   "rating": 3
+   "rating": 3,
+   "proteins": 3.13308,
+   "fats": 0.83016, 
+   "carbs": 10.46592, 
+   "calories": 61.866,
+   "weight": 36
   },
   {
-   "id": 20,
+   "id": "20",
    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/e42/520_400_2/o308lm276cqx7co9d14ksvawqbk4pxge.jpg?166185464197148",
    "title": "Гункан Тобико Оранж",
-   "discription": "Икра летучей рыбы оранжевая",
-   "amount": [
-    8,
-    16
-   ],
-   "price": 36,
+   "description": "Икра летучей рыбы оранжевая",
+   "price": 4.5,
    "category": 5,
-   "rating": 4
+   "rating": 4,
+   "proteins": 3.32712,
+   "fats": 0.9, 
+   "carbs": 10.54116, 
+   "calories": 63.57204,
+   "weight": 36
   },
   {
-    "id": 21,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/0a0/520_400_2/dcm2r1tm38ll1rel9qn6z0g6kpwwj2vq.jpg?166185461774628",
-    "title": "Филадельфия маки",
-    "discription": "Лосось, сливочный сыр",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 22.80,
-    "category": 1,
-    "rating": 6
-   },
-   {
-    "id": 22,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/2d7/520_400_2/y43ztvr8gt6nh0v93mp6o1xug8150ch4.jpg?1661854682100899",
-    "title": "Вакамэ маки",
-    "discription": "Лосось, сливочный сыр, водоросли маринованные, соус Ореховый, кунжут черный",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 15.50,
-    "category": 1,
-    "rating": 3
-   },
-   {
-    "id": 23,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/9de/520_400_2/410wnozzlzy3nf3x347xf1rz52ntutdt.jpg?166335054556366",
-    "title": "Нигири Магуро",
-    "discription": "Тунец",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 26.40,
-    "category": 5,
-    "rating": 4
-   },
-   {
-    "id": 24,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/3bc/520_400_2/1mu3vbmo01ecbha1wauoti9i8s9eqmow.jpg?166256013162676",
-    "title": "Нигири Унаги",
-    "discription": "Угорь, соус Унаги, кунжут белый",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 44.80,
-    "category": 5,
-    "rating": 2
-   },
-   {
-    "id": 25,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/766/520_400_2/kyun8aigjoaypwda6xmuigaplytnlc9c.jpg?1661787920104752",
-    "title": "Каппа маки",
-    "discription": "Огурец",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 5.90,
-    "category": 4,
-    "rating": 1
-   },
-   {
-    "id": 26,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/e10/520_400_2/t4pylg03ui5ac3e2qqnhxv8hrzbsu1pl.jpg?166300576790483",
-    "title": "Спайси Кунсей маки",
-    "discription": "Копчёный лосось, соус Спайси",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 8.30,
-    "category": 4,
-    "rating": 1
-   },
-   {
-    "id": 27,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/db0/520_400_2/50ebtwt0bqg8a1bwdwet01dermtyug2o.jpg?1661941006109090",
-    "title": "Унаги маки",
-    "discription": "Угорь, соус Унаги, кунжут",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 10.70,
-    "category": 4,
-    "rating": 1
-   },
-   {
-    "id": 28,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/83e/520_400_2/69l2sb11nxmo4vnx7zuj5uv05idbummh.jpg?166370431198699",
-    "title": "Эби Уайт маки",
-    "discription": "Креветка, сливочный сыр",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 8.30,
-    "category": 4,
-    "rating": 1
-   },
-   {
-    "id": 29,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/b97/520_400_2/zde837vxmk7u5u17o3bxywjbth4pbeiz.jpg?166222747379602",
-    "title": "Хот Мацури маки",
-    "discription": "Лосось, креветка, салат айсберг, огурец, икра летучей рыбы, сыр сливочный",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 26.90,
-    "category": 2,
-    "rating": 3
-   },
-   {
-    "id": 30,
-    "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/56e/520_400_2/wa1r8drl9yd2qrodq6ffug6fwqqo2d6r.jpg?1661857810119352",
-    "title": "Хот Кабаяки маки",
-    "discription": "Африканский сом, такуан, сливочный сыр, салат Айсберг, имбирный соус",
-    "amount": [
-     8,
-     16
-    ],
-    "price": 13.10,
-    "category": 2,
-    "rating": 1
-   }
-
+   "id": "21",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/0a0/520_400_2/dcm2r1tm38ll1rel9qn6z0g6kpwwj2vq.jpg?166185461774628",
+   "title": "Филадельфия маки",
+   "description": "Лосось, сливочный сыр",
+   "price": 2.89,
+   "category": 1,
+   "rating": 6,
+   "proteins": 27.65925,
+   "fats": 39.97125, 
+   "carbs": 58.74705, 
+   "calories": 705.34935,
+   "weight": 35
+  },
+  {
+   "id": "22",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/2d7/520_400_2/y43ztvr8gt6nh0v93mp6o1xug8150ch4.jpg?1661854682100899",
+   "title": "Вакамэ маки",
+   "description": "Лосось, сливочный сыр, водоросли маринованные, соус Ореховый",
+   "price": 1.94,
+   "category": 1,
+   "rating": 3,
+   "proteins": 15.53904,
+   "fats": 28.13184, 
+   "carbs": 68.08824, 
+   "calories": 587.7036,
+   "weight": 33
+  },
+  {
+   "id": "23",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/9de/520_400_2/410wnozzlzy3nf3x347xf1rz52ntutdt.jpg?166335054556366",
+   "title": "Нигири Магуро",
+   "description": "Тунец",
+   "price": 3.3,
+   "category": 5,
+   "rating": 4,
+   "proteins": 4.508,
+   "fats": 0.1071, 
+   "carbs": 9.37615, 
+   "calories": 56.65485,
+   "weight": 35
+  },
+  {
+   "id": "24",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/3bc/520_400_2/1mu3vbmo01ecbha1wauoti9i8s9eqmow.jpg?166256013162676",
+   "title": "Нигири Унаги",
+   "description": "Угорь, соус Унаги, кунжут белый",
+   "price": 5.6,
+   "category": 5,
+   "rating": 2,
+   "proteins": 5.22196,
+   "fats": 4.89782, 
+   "carbs": 11.19404, 
+   "calories": 109.7459,
+   "weight": 38
+  },
+  {
+   "id": "25",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/766/520_400_2/kyun8aigjoaypwda6xmuigaplytnlc9c.jpg?1661787920104752",
+   "title": "Каппа маки",
+   "description": "Огурец",
+   "price": 0.7,
+   "category": 4,
+   "rating": 1,
+   "proteins": 4.14732,
+   "fats": 0.51612, 
+   "carbs": 39.015, 
+   "calories": 177.49224,
+   "weight": 12.8
+  },
+  {
+   "id": "26",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/e10/520_400_2/t4pylg03ui5ac3e2qqnhxv8hrzbsu1pl.jpg?166300576790483",
+   "title": "Спайси Кунсей маки",
+   "description": "Копчёный лосось, соус Спайси",
+   "price": 1,
+   "category": 4,
+   "rating": 1,
+   "proteins": 11.41155,
+   "fats": 7.14011, 
+   "carbs": 38.63556, 
+   "calories": 264.45157,
+   "weight": 13.3
+  },
+  {
+   "id": "27",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/db0/520_400_2/50ebtwt0bqg8a1bwdwet01dermtyug2o.jpg?1661941006109090",
+   "title": "Унаги маки",
+   "description": "Угорь, соус Унаги, кунжут",
+   "price": 1.3,
+   "category": 4,
+   "rating": 1,
+   "proteins": 12.21444,
+   "fats": 9.53046, 
+   "carbs": 42.31653, 
+   "calories": 303.89358,
+   "weight": 14
+  },
+  {
+   "id": "28",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/83e/520_400_2/69l2sb11nxmo4vnx7zuj5uv05idbummh.jpg?166370431198699",
+   "title": "Эби Уайт маки",
+   "description": "Креветка, сливочный сыр",
+   "price": 1,
+   "category": 4,
+   "rating": 1,
+   "proteins": 8.21406,
+   "fats": 3.54246, 
+   "carbs": 40.48788, 
+   "calories": 226.68582,
+   "weight": 12.8
+  },
+  {
+   "id": "29",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/b97/520_400_2/zde837vxmk7u5u17o3bxywjbth4pbeiz.jpg?166222747379602",
+   "title": "Хот Мацури маки",
+   "description": "Лосось, креветка, салат айсберг, икра летучей рыбы, сыр сливочный",
+   "price": 3.4,
+   "category": 2,
+   "rating": 3,
+   "proteins": 27.796,
+   "fats": 37.552, 
+   "carbs": 25.938, 
+   "calories": 552.892,
+   "weight": 25
+  },
+  {
+   "id": "30",
+   "imageUrl": "https://sushihouse.by/upload/resize_cache/iblock/56e/520_400_2/wa1r8drl9yd2qrodq6ffug6fwqqo2d6r.jpg?1661857810119352",
+   "title": "Хот Кабаяки маки",
+   "description": "Африканский сом, такуан, сливочный сыр, салат Айсберг, имбирный соус",
+   "price": 1.64,
+   "category": 2,
+   "rating": 1,
+   "proteins": 9.23884,
+   "fats": 27.2609, 
+   "carbs": 86.11218, 
+   "calories": 626.75,
+   "weight": 27.2
+  }
  ]
