@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-Sushi-Rolly/static/css/main.f71287e8.css",
-    "main.js": "/react-Sushi-Rolly/static/js/main.92b2ded6.js",
-    "Cart.js": "/react-Sushi-Rolly/static/js/Cart.a8d961c8.chunk.js",
+    "main.js": "/react-Sushi-Rolly/static/js/main.2c66550b.js",
+    "Cart.js": "/react-Sushi-Rolly/static/js/Cart.46ee27f4.chunk.js",
     "FullSushi.js": "/react-Sushi-Rolly/static/js/FullSushi.1ea1c9ae.chunk.js",
     "NotFound.js": "/react-Sushi-Rolly/static/js/NotFound.1eecaa6c.chunk.js",
     "static/media/logo.jpg": "/react-Sushi-Rolly/static/media/logo.4116e91805decd2db730.jpg",
@@ -10,13 +10,13 @@
     "index.html": "/react-Sushi-Rolly/index.html",
     "static/media/btnRemove.svg": "/react-Sushi-Rolly/static/media/btnRemove.b1fef0aa93fbf25374f4991d23f900d8.svg",
     "main.f71287e8.css.map": "/react-Sushi-Rolly/static/css/main.f71287e8.css.map",
-    "main.92b2ded6.js.map": "/react-Sushi-Rolly/static/js/main.92b2ded6.js.map",
-    "Cart.a8d961c8.chunk.js.map": "/react-Sushi-Rolly/static/js/Cart.a8d961c8.chunk.js.map",
+    "main.2c66550b.js.map": "/react-Sushi-Rolly/static/js/main.2c66550b.js.map",
+    "Cart.46ee27f4.chunk.js.map": "/react-Sushi-Rolly/static/js/Cart.46ee27f4.chunk.js.map",
     "FullSushi.1ea1c9ae.chunk.js.map": "/react-Sushi-Rolly/static/js/FullSushi.1ea1c9ae.chunk.js.map",
     "NotFound.1eecaa6c.chunk.js.map": "/react-Sushi-Rolly/static/js/NotFound.1eecaa6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f71287e8.css",
-    "static/js/main.92b2ded6.js"
+    "static/js/main.2c66550b.js"
   ]
 }
