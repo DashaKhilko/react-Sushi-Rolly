@@ -4,7 +4,7 @@
 
     li {
         display: inline-block;
-
+    }
         a {
             align-items: center;
             height: 40px;
@@ -19,14 +19,11 @@
                 color: white;   
             }
         }
-    }
 
-    :global {
-        .selected {
-            a {
-                background-color: #737272;
-                color: white;
-            }
+    li.selected{
+        a {
+            background-color: #737272;
+            color: white;
         }
     }
 }

@@ -42,7 +42,7 @@ const FullSushi: React.FC = () => {
       <div className="fullSushi">
         <div className="fullSushi__image">
           <img
-            src={sushi.imageUrl}
+            src={'../' + sushi.imageUrl}
             alt="Products"
           />
         </div>
